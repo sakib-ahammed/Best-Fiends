@@ -1,0 +1,69 @@
+<key>red</key>
+<dict>
+ <key>frame</key>
+ <string>{{0,0},{53,53}}</string>
+ <key>offset</key>
+ <string>{2,2}</string>
+ <key>rotated</key>
+ <false/>
+ <key>sourceColorRect</key>
+ <string>{{0,0},{53,53}}</string>
+ <key>sourceSize</key>
+ <string>{54,54}</string>
+</dict>
+
+<key>green</key>
+<dict>
+ <key>frame</key>
+ <string>{{0,106},{53,160}}</string>
+ <key>offset</key>
+ <string>{0,0}</string>
+ <key>rotated</key>
+ <false/>
+ <key>sourceColorRect</key>
+ <string>{{0,106},{53,160}}</string>
+ <key>sourceSize</key>
+ <string>{54,54}</string>
+</dict>
+
+<key>blue</key>
+<dict>
+ <key>frame</key>
+ <string>{{0,53},{53,106}}</string>
+ <key>offset</key>
+ <string>{0,0}</string>
+ <key>rotated</key>
+ <false/>
+ <key>sourceColorRect</key>
+ <string>{{0,53},{53,106}}</string>
+ <key>sourceSize</key>
+ <string>{54,54}</string>
+</dict>
+
+<key>pink</key>
+<dict>
+ <key>frame</key>
+ <string>{{53,0},{106,53}}</string>
+ <key>offset</key>
+ <string>{0,0}</string>
+ <key>rotated</key>
+ <false/>
+ <key>sourceColorRect</key>
+ <string>{{53,0},{106,53}}</string>
+ <key>sourceSize</key>
+ <string>{54,54}</string>
+</dict>
+
+<key>sky</key>
+<dict>
+ <key>frame</key>
+ <string>{{106,0},{160,53}}</string>
+ <key>offset</key>
+ <string>{0,0}</string>
+ <key>rotated</key>
+ <false/>
+ <key>sourceColorRect</key>
+ <string>{{106,0},{160,53}}</string>
+ <key>sourceSize</key>
+ <string>{54,54}</string>
+</dict>
